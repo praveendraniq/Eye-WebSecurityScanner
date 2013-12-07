@@ -1,4 +1,4 @@
-sidhu747
+Eye-WebSecurityScanner
 ========
 This is a project for scanning web app for security vulnerabilities.
 The project is known as EYE WEB SCANNER.
